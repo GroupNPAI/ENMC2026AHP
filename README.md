@@ -10,8 +10,7 @@ The model utilizes the Analytic Hierarchy Process (AHP) to structure the decisio
 3. Controlled Disposal (A3): Final disposal as a reference alternative.
 
 ## Supplementary Materials
-The datasets and calculation memories provided ensure full transparency and reproducibility of the weights and rankings reported in the associated study. The supplementary file is organized into six sections:
-Behavior 1:
+The datasets and calculation memories provided ensure full transparency and reproducibility of the weights and rankings reported in the associated study. The supplementary file is organized into six sections://
 S1.	Scope of the AHP Application: Detailed objective and methodological steps, including the delimitation of EoL alternatives and the hierarchy structure.
 	S2. Pairwise Comparison Among Dimensions: Records of judgments comparing the relative importance of the Economic, Environmental-Social, and Technical-Operational dimensions.
 	S3. Economic Dimension Calculation Memory: Comparison of alternatives based on resale revenue, decommissioning, logistics, inspection, and processing costs.
