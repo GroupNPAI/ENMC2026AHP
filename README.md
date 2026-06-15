@@ -16,7 +16,7 @@ The datasets and calculation memories provided ensure full transparency and repr
 	S3. Economic Dimension Calculation Memory: Comparison of alternatives based on resale revenue, decommissioning, logistics, inspection, and processing costs.
 	S4. Environmental-Social Dimension Calculation Memory: Evaluation focused on avoided waste, emissions, material loss, and social benefits associated with second-life access.
 	S5. Technical-Operational Dimension Calculation Memory: Assessment of technological maturity, infrastructure availability, safety, and traceability requirements.
-	S6. Pairwise Comparison Matrix of the Criteria: Final aggregation of weights ( V_{i} = \sum_{}^{}{a_{w}w_{i}}^{d} ) generating the global ranking.
+	S6. Pairwise Comparison Matrix of the Criteria: Final aggregation of weights generating the global ranking.
 
 ## Key Results
 According to the conceptual application presented:
