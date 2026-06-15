@@ -5,9 +5,9 @@
 This repository provides the supporting materials and calculation records for a multicriteria decision-support model developed to evaluate end-of-life (EoL) strategies for crystalline silicon (c-Si) photovoltaic modules.
 
 The model utilizes the Analytic Hierarchy Process (AHP) to structure the decision-making process, comparing three effective routes:
-•	Reuse (A1): Life extension and second-life applications.
-•	Recycling (A2): Material separation and recovery.
-•	Controlled Disposal (A3): Final disposal as a reference alternative.
+Reuse (A1): Life extension and second-life applications.
+Recycling (A2): Material separation and recovery.
+Controlled Disposal (A3): Final disposal as a reference alternative.
 
 ## Supplementary Materials
 The datasets and calculation memories provided ensure full transparency and reproducibility of the weights and rankings reported in the associated study. The supplementary file is organized into six sections:
